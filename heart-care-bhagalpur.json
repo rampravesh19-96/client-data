@@ -1,0 +1,94 @@
+{
+  "theme": "clinic",
+  "siteName": "Heart Care - Dr. Pranav Kumar",
+  "tagline": "Heart-focused clinic information in Bhagalpur",
+  "description": "A clean clinic demo website presenting consultation details, timings, services, and contact information in a clear mobile-friendly format.",
+  "contact": {
+    "phone": "+91 95704 76187",
+    "whatsapp": "+91 95704 76187",
+    "email": "contact@example.com"
+  },
+  "address": {
+    "line": "Adampur, Bhagalpur",
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "country": "India"
+  },
+  "timings": [
+    "10:00 AM - 2:00 PM",
+    "6:00 PM - 8:00 PM",
+    "Open 7 days"
+  ],
+  "branding": {
+    "colors": {
+      "primary": "#12324a",
+      "secondary": "#1d4d6d",
+      "accent": "#d9eef6",
+      "surface": "#f7fbfd",
+      "text": "#10212f"
+    }
+  },
+  "seo": {
+    "title": "Heart Care - Dr. Pranav Kumar",
+    "description": "Heart-focused clinic demo website for Bhagalpur.",
+    "siteUrl": "https://heart-care-bhagalpur.vercel.app"
+  },
+  "pages": {
+    "about": true,
+    "services": true,
+    "gallery": true,
+    "contact": true,
+    "courses": false,
+    "admissions": false,
+    "academics": false,
+    "facilities": false,
+    "tests": false
+  },
+  "sections": {
+    "trust": true,
+    "faqs": true,
+    "gallery": true,
+    "contact": true
+  },
+  "ctas": {
+    "primary": {
+      "label": "Call Clinic",
+      "href": "tel:+919570476187"
+    },
+    "secondary": {
+      "label": "View Services",
+      "href": "/services"
+    }
+  },
+  "offerings": [
+    {
+      "title": "Consultation",
+      "description": "Clinic consultation and patient guidance information."
+    },
+    {
+      "title": "ECG Support",
+      "description": "Basic heart-care diagnostic support details."
+    },
+    {
+      "title": "Heart Care Guidance",
+      "description": "Clear service overview and contact pathway."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How can I contact the clinic?",
+      "answer": "Use the call button or contact page."
+    },
+    {
+      "question": "Where is the clinic located?",
+      "answer": "Adampur, Bhagalpur."
+    }
+  ],
+  "trustBadges": [
+    "Heart-focused clinic demo",
+    "Bhagalpur location",
+    "Clear clinic timings"
+  ],
+  "stats": [],
+  "testimonials": []
+}

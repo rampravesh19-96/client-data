@@ -1,0 +1,97 @@
+{
+  "theme": "coaching",
+  "siteName": "The NETRA Bhagalpur",
+  "tagline": "SSC, Bank, Railway and government exam preparation",
+  "description": "A professional coaching demo website showing courses, contact information, gallery, and a clear student-focused overview.",
+  "contact": {
+    "phone": "+91 76678 99120",
+    "whatsapp": "+91 76678 99120",
+    "email": "contact@example.com"
+  },
+  "address": {
+    "line": "Bhagalpur, Bihar",
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "country": "India"
+  },
+  "timings": [
+    "Contact for current class timings",
+    "Bhagalpur, Bihar"
+  ],
+  "branding": {
+    "colors": {
+      "primary": "#1f3c88",
+      "secondary": "#274690",
+      "accent": "#f0c14b",
+      "surface": "#f8fafc",
+      "text": "#14213d"
+    }
+  },
+  "seo": {
+    "title": "The NETRA Bhagalpur",
+    "description": "Coaching demo website for SSC, Bank, Railway and other government exam preparation.",
+    "siteUrl": "https://netra-bhagalpur.vercel.app"
+  },
+  "pages": {
+    "about": true,
+    "services": false,
+    "gallery": true,
+    "contact": true,
+    "courses": true,
+    "admissions": false,
+    "academics": false,
+    "facilities": false,
+    "tests": false
+  },
+  "sections": {
+    "trust": true,
+    "faqs": true,
+    "gallery": true,
+    "contact": true
+  },
+  "ctas": {
+    "primary": {
+      "label": "View Courses",
+      "href": "/courses"
+    },
+    "secondary": {
+      "label": "Contact Institute",
+      "href": "/contact"
+    }
+  },
+  "offerings": [
+    {
+      "title": "SSC Preparation",
+      "description": "Course overview for SSC-related exam preparation."
+    },
+    {
+      "title": "Banking Preparation",
+      "description": "Preparation guidance for bank-related exams."
+    },
+    {
+      "title": "Railway Preparation",
+      "description": "Course information for railway exam aspirants."
+    },
+    {
+      "title": "Other Government Exams",
+      "description": "General preparation support for competitive exam aspirants."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "Which exams are covered?",
+      "answer": "SSC, Bank, Railway and other government exam preparation."
+    },
+    {
+      "question": "How can students contact the institute?",
+      "answer": "Use the contact page or call directly."
+    }
+  ],
+  "trustBadges": [
+    "Coaching demo website",
+    "Bhagalpur, Bihar",
+    "SSC • Bank • Railway"
+  ],
+  "stats": [],
+  "testimonials": []
+}

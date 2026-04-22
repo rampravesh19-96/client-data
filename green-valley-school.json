@@ -1,0 +1,93 @@
+{
+  "theme": "school",
+  "siteName": "Green Valley Public School",
+  "tagline": "A modern school website demo for academics, admissions and facilities",
+  "description": "A clean and professional school demo website designed to present academics, facilities, admissions details and contact information clearly.",
+  "contact": {
+    "phone": "+91 90000 11111",
+    "whatsapp": "+91 90000 11111",
+    "email": "admissions@example.com"
+  },
+  "address": {
+    "line": "School Campus Road",
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "country": "India"
+  },
+  "timings": [
+    "Mon-Sat: 8:00 AM - 3:00 PM",
+    "Admissions Enquiry Available"
+  ],
+  "branding": {
+    "colors": {
+      "primary": "#14532d",
+      "secondary": "#166534",
+      "accent": "#facc15",
+      "surface": "#f7fff7",
+      "text": "#1f2937"
+    }
+  },
+  "seo": {
+    "title": "Green Valley Public School",
+    "description": "School demo website for academics, admissions, facilities and contact information.",
+    "siteUrl": "https://green-valley-school.vercel.app"
+  },
+  "pages": {
+    "about": true,
+    "services": false,
+    "gallery": true,
+    "contact": true,
+    "courses": false,
+    "admissions": true,
+    "academics": true,
+    "facilities": true,
+    "tests": false
+  },
+  "sections": {
+    "trust": true,
+    "faqs": true,
+    "gallery": true,
+    "contact": true
+  },
+  "ctas": {
+    "primary": {
+      "label": "Admissions",
+      "href": "/admissions"
+    },
+    "secondary": {
+      "label": "Contact School",
+      "href": "/contact"
+    }
+  },
+  "offerings": [
+    {
+      "title": "Academics",
+      "description": "Academic overview and curriculum presentation."
+    },
+    {
+      "title": "Admissions",
+      "description": "Admission enquiry and school application information."
+    },
+    {
+      "title": "Facilities",
+      "description": "Campus and student facility highlights."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How can parents enquire about admissions?",
+      "answer": "Use the admissions page or contact the school directly."
+    },
+    {
+      "question": "What does the website show?",
+      "answer": "Academics, facilities, admissions and school contact details."
+    }
+  ],
+  "trustBadges": [
+    "School demo website",
+    "Admissions ready",
+    "Academics and facilities"
+  ],
+  "stats": [],
+  "testimonials": []
+}

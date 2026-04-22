@@ -1,0 +1,93 @@
+{
+  "theme": "business",
+  "siteName": "Shree Interiors Bhagalpur",
+  "tagline": "A clean local business demo for services, gallery and contact",
+  "description": "A professional local business demo website built to showcase services, project-style gallery, company overview and contact details.",
+  "contact": {
+    "phone": "+91 90123 45678",
+    "whatsapp": "+91 90123 45678",
+    "email": "hello@example.com"
+  },
+  "address": {
+    "line": "Office Address",
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "country": "India"
+  },
+  "timings": [
+    "Mon-Sat: 10:00 AM - 7:00 PM",
+    "Sunday by appointment"
+  ],
+  "branding": {
+    "colors": {
+      "primary": "#334155",
+      "secondary": "#475569",
+      "accent": "#eab308",
+      "surface": "#f8fafc",
+      "text": "#0f172a"
+    }
+  },
+  "seo": {
+    "title": "Shree Interiors Bhagalpur",
+    "description": "Local business demo website for services, gallery and contact information.",
+    "siteUrl": "https://shree-interiors-bhagalpur.vercel.app"
+  },
+  "pages": {
+    "about": true,
+    "services": true,
+    "gallery": true,
+    "contact": true,
+    "courses": false,
+    "admissions": false,
+    "academics": false,
+    "facilities": false,
+    "tests": false
+  },
+  "sections": {
+    "trust": true,
+    "faqs": true,
+    "gallery": true,
+    "contact": true
+  },
+  "ctas": {
+    "primary": {
+      "label": "View Services",
+      "href": "/services"
+    },
+    "secondary": {
+      "label": "Contact Business",
+      "href": "/contact"
+    }
+  },
+  "offerings": [
+    {
+      "title": "Interior Services",
+      "description": "Overview of interior-related service offerings."
+    },
+    {
+      "title": "Project Consultation",
+      "description": "Simple consultation and enquiry information."
+    },
+    {
+      "title": "Gallery Showcase",
+      "description": "Visual presentation of completed work style."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How can I contact the business?",
+      "answer": "Use the contact page or call directly."
+    },
+    {
+      "question": "What does the site show?",
+      "answer": "Services, gallery, business overview and contact details."
+    }
+  ],
+  "trustBadges": [
+    "Business demo website",
+    "Gallery and services",
+    "Bhagalpur contact"
+  ],
+  "stats": [],
+  "testimonials": []
+}

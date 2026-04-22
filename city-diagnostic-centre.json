@@ -1,0 +1,93 @@
+{
+  "theme": "diagnostic",
+  "siteName": "City Diagnostic Centre",
+  "tagline": "Tests, timings and contact details in one clear diagnostic centre demo",
+  "description": "A professional diagnostic centre demo website designed to present tests, timings, contact details and service information in a clean format.",
+  "contact": {
+    "phone": "+91 91234 56789",
+    "whatsapp": "+91 91234 56789",
+    "email": "support@example.com"
+  },
+  "address": {
+    "line": "Main Road",
+    "city": "Bhagalpur",
+    "state": "Bihar",
+    "country": "India"
+  },
+  "timings": [
+    "Mon-Sat: 7:00 AM - 8:00 PM",
+    "Sunday: 8:00 AM - 1:00 PM"
+  ],
+  "branding": {
+    "colors": {
+      "primary": "#0f766e",
+      "secondary": "#155e75",
+      "accent": "#e2f3f1",
+      "surface": "#f8fffe",
+      "text": "#0f172a"
+    }
+  },
+  "seo": {
+    "title": "City Diagnostic Centre",
+    "description": "Diagnostic centre demo website with tests, timings and contact information.",
+    "siteUrl": "https://city-diagnostic-centre.vercel.app"
+  },
+  "pages": {
+    "about": true,
+    "services": true,
+    "gallery": true,
+    "contact": true,
+    "courses": false,
+    "admissions": false,
+    "academics": false,
+    "facilities": false,
+    "tests": true
+  },
+  "sections": {
+    "trust": true,
+    "faqs": true,
+    "gallery": true,
+    "contact": true
+  },
+  "ctas": {
+    "primary": {
+      "label": "View Tests",
+      "href": "/tests"
+    },
+    "secondary": {
+      "label": "Contact Centre",
+      "href": "/contact"
+    }
+  },
+  "offerings": [
+    {
+      "title": "Pathology Tests",
+      "description": "General pathology and diagnostic test information."
+    },
+    {
+      "title": "Routine Checkups",
+      "description": "Basic diagnostic and preventive testing overview."
+    },
+    {
+      "title": "Service Information",
+      "description": "Timings, enquiry details and service support."
+    }
+  ],
+  "faqs": [
+    {
+      "question": "How can I enquire about tests?",
+      "answer": "Use the contact page or view the tests page."
+    },
+    {
+      "question": "Where is the centre located?",
+      "answer": "Bhagalpur, Bihar."
+    }
+  ],
+  "trustBadges": [
+    "Diagnostic centre demo",
+    "Clear test information",
+    "Contact and timings"
+  ],
+  "stats": [],
+  "testimonials": []
+}
